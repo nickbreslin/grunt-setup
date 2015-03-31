@@ -1,0 +1,21 @@
+{
+  "name": "grunt-setup",
+  "version": "0.1.0",
+  "description": "...",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nickbreslin/grunt-setup.git"
+  },
+  "author": "Nick Breslin",
+  "readmeFilename": "README.md",
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
