@@ -1,4 +1,6 @@
-# Grunt Setup [![Build Status](https://travis-ci.org/nickbreslin/grunt-setup.png?branch=master)](https://travis-ci.org/nickbreslin/grunt-setup)
+# Grunt Setup
+
+[![Build Status](https://circleci.com/gh/nickbreslin/grunt-setup.svg?style=shield&circle-token=726bbf905911363923f8a55a4e01748b05070c8d)](https://circleci.com/gh/nickbreslin/booshtracker)
 ### ...
 
 ...
@@ -7,9 +9,13 @@
 
 ...
 
+
 ## Installation
 
-`npm install`
+- bash file installs grunt dependencies.
+- this will auto-update package.json
+- `npm install`
+- installs node_modules.
 
 ## Usage
 
@@ -33,6 +39,7 @@ Pull requests are welcome. Test before you request. Please create a topic branch
 * Grunt - Test Automation - http://gruntjs.com/
 * JDocs - Documentation - http://www.jdocs.com/
 * Travis CI - Continuous Integration - https://travis-ci.org/
+https://david-dm.org/
 
 ## Authors
 

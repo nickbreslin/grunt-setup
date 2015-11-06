@@ -1,0 +1,5 @@
+{
+	"ftp": {
+        "command": "" //aws s3 sync build/  s3://.../"
+	}
+}
