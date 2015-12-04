@@ -29,7 +29,6 @@
     "undef": true,
     "white": true,
     "plusplus": true,
-    "trailing": true,
     "node": true,
     "strict": true
 }
