@@ -32,7 +32,7 @@ module.exports = function (grunt) {
 
     grunt.registerTask('default', ['jshint']);
     grunt.registerTask('compile', ['default', 'clean:build', 'uglify', 'handlebars']);
-    grunt.registerTask('test', ['compile', 'qunit', 'dalek']);
+    grunt.registerTask('test', ['compile' /*, 'qunit', 'dalek'*/]);
     grunt.registerTask('ci', ['test']);
 
     grunt.registerTask('docs', ['test', 'clean:docs', 'jsdoc', 'jsdoc-ng']);
