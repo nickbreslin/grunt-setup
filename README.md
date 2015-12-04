@@ -46,3 +46,12 @@ https://david-dm.org/
 
 [Nick Breslin](https://github.com/nickbreslin)
 
+# Update Dependencies
+
+`
+david update
+`
+
+npm install
+npm update
+
