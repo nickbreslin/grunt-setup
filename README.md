@@ -1,6 +1,7 @@
 # Grunt Setup
 
-[![Build Status](https://circleci.com/gh/nickbreslin/grunt-setup.svg?style=shield&circle-token=726bbf905911363923f8a55a4e01748b05070c8d)](https://circleci.com/gh/nickbreslin/booshtracker)
+[![Build Status](https://circleci.com/gh/nickbreslin/grunt-setup.svg?style=shield&circle-token=726bbf905911363923f8a55a4e01748b05070c8d)](https://circleci.com/gh/nickbreslin/grunt-setup)
+https://david-dm.org/nickbreslin/grunt-setup.svg
 ### ...
 
 ...
