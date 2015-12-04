@@ -39,8 +39,8 @@ Pull requests are welcome. Test before you request. Please create a topic branch
 * QUnit - Unit Tests - http://qunitjs.com/
 * Grunt - Test Automation - http://gruntjs.com/
 * JDocs - Documentation - http://www.jdocs.com/
-* Travis CI - Continuous Integration - https://travis-ci.org/
-https://david-dm.org/
+* Circle CI - Continuous Integration - https://circleci.com/
+* Dependencies - https://david-dm.org/
 
 ## Authors
 
