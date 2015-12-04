@@ -1,7 +1,8 @@
 # Grunt Setup
 
-[![Build Status](https://circleci.com/gh/nickbreslin/grunt-setup/tree/master.svg?style=shield)](https://circleci.com/gh/nickbreslin/grunt-setup/tree/master)[![Dependencies](https://david-dm.org/nickbreslin/grunt-setup.svg)](https://david-dm.org/nickbreslin/grunt-setup.svg)
-
+[![Build Status](https://circleci.com/gh/nickbreslin/grunt-setup/tree/master.svg?style=shield)](https://circleci.com/gh/nickbreslin/grunt-setup/tree/master)
+[![Dependency Status](https://david-dm.org/nickbreslin/grunt-setup.svg?style=flat)](https://david-dm.org/nickbreslin/grunt-setup)
+[![devDependency Status](https://david-dm.org/nickbreslin/grunt-setup/dev-status.svg?style=flat)](https://david-dm.org/nickbreslin/grunt-setup#info=devDependencies)
 https://david-dm.org/nickbreslin/grunt-setup.svg
 ### ...
 
